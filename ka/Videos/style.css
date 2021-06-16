@@ -1,0 +1,13 @@
+body a{
+    text-decoration: none;
+}
+.top{
+    background: #000;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.vidio{
+    padding-top: 100px;
+}

@@ -1,0 +1,80 @@
+@media (max-width: 768px) {
+    .title h2 {
+        font-size: 40px;
+    }
+
+    .for__top ul {
+        padding-left: 100px;
+    }
+
+    .title {
+        padding-top: 50px;
+    }
+
+    .for__input {
+        padding-right: 190px;
+    }
+
+    .odigi {
+        font-size: 12px;
+        width: 768px;
+        padding-left: 0;
+    }
+
+    .company {
+        height: 150px;
+        padding-left: 0;
+    }
+
+    .welcome img {
+        padding-left: 50px;
+    }
+
+    .zae {
+        display: flex;
+        align-items: center;
+    }
+
+    .get h3 {
+        font-size: 24px;
+    }
+
+    .mount img {
+        width: 100px;
+    }
+
+    .mount {
+        position: absolute;
+        top: 81%;
+        left: 5%;
+    }
+
+    .left {
+        position: absolute;
+        top: 381%;
+        left: 7%;
+    }
+    .right {
+        position: absolute;
+        top: 434%;
+        left: -6%;
+    }
+    .right__2 {
+        position: absolute;
+        top: 470%;
+        left: 6%;
+    }
+    .left_2 {
+        position: absolute;
+        top: 529%;
+        left: -21%;
+    }
+    .timeToVisit {
+        padding-bottom: 1120px;
+        padding-top: 900px;
+    }
+    .video .for__video frame{
+        height: 400px;
+        width: 770px;
+    }
+}
